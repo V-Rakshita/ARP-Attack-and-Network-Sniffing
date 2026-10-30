@@ -1,4 +1,4 @@
-<img width="435" height="121" alt="windows_arp" src="https://github.com/user-attachments/assets/ba87c217-c032-47c5-bb3e-d2fd51a98f55" />
+
 # ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
 
